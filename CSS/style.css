@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+#grad {
+  background-image: linear-gradient(to right,red,yellow);
+}
+
+
+h1,h2,h3 {
+  color: white;
+  text-align: centre;
+}
+
+p {
+  font-family: verdana;
+  font-size: 25px;
+}
+
+img {
+  float: right;
+  border-radius: 8px;
+}
